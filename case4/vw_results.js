@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 4
 
-   Author: 
-   Date:   
+   Author: Colby Abbott
+   Date:   2/3/20
    
    Filename: vw_results.js
    

@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 3
 
-   Author:  
-   Date:   
+   Author:  Colby Abbott
+   Date:    2/3/20
    
    Filename: ah_report.js
    
