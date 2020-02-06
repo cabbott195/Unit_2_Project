@@ -37,4 +37,3 @@ function calcSum(value) {
 function calcPercent(value, sum) {
    return (100*value/sum);
 }
-
